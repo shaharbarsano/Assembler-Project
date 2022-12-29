@@ -1,0 +1,8 @@
+.idea
+*.ob
+*.ent
+*.ext
+tests/tmp
+obj/
+bin/
+.DS_Store
